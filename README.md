@@ -41,6 +41,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+
+  ![snake gif](https://github.com/rafa-ken/rafa-ken/blob/output/github-contribution-grid-snake.svg)
   
   
   <br/><br/><br/>
