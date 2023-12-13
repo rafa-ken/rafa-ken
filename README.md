@@ -34,20 +34,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python" />
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-  ![snake gif](https://github.com/rafa-ken/rafa-ken/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
