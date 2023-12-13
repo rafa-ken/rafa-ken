@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/rafael-miyamoto-1b4706294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="file:///c%3A/Users/rafae/OneDrive/%C3%81rea%20de%20Trabalho/Portifolio-2/index.html" target="_blank">
+  <a href="https://github.com/rafa-ken/portifolio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
