@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **projects in my university**
+  I’m currently working on **projects in my university**
  
- 🌱 I’m currently learning **Computer science in Insper**
+  I’m currently learning **Computer science in Insper**
 
  </div>
  
@@ -29,14 +29,14 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,python,django" />
 </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
 
