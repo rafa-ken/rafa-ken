@@ -64,7 +64,3 @@
   Busco sempre entregar soluções organizadas, eficientes e com foco em resultado.  
   Meu objetivo é evoluir profissionalmente contribuindo em ambientes dinâmicos e colaborativos.
 </p>
-
----
-
-<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
